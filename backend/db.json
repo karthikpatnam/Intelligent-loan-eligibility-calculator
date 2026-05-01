@@ -1,0 +1,229 @@
+{
+  "users": [
+    {
+      "id": 1776854415940,
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "$2b$10$g8.5namkE3KVfUx2ncZpyuFrrfHa4F.c6hzsVeRcZeWbwIboM2h/m"
+    },
+    {
+      "id": 1776854592722,
+      "name": "Test User 4",
+      "email": "test4@example.com",
+      "password": "$2b$10$ii9FaOTAyo6WTK12Z0cZKOOg9cB01qqC74ZX0TZdadD3VNmfldvLG"
+    },
+    {
+      "id": 1776854703672,
+      "name": "Poorna",
+      "email": "poorna@gmail.com",
+      "password": "$2b$10$KXdr4gWjSzkytoL4A4W9KOhSVqESqZWHOro/0Lf/B27VzW4ZWm39m"
+    },
+    {
+      "id": 1776855874524,
+      "name": "Test Two",
+      "email": "test2@example.com",
+      "password": "$2b$10$VvRJ8WwqWN9KODacUykIQeel.ovUR6lgmJ.mDucVCrzhMdsf0.NPK"
+    },
+    {
+      "id": 1776866620686,
+      "name": "Test User",
+      "email": "test_verify@gmail.com",
+      "password": "$2b$10$Ssf/6D0Wm9/v41hK2v.YsucnxXKLeINU6ifMtJXp/umZEdCuJimdS"
+    },
+    {
+      "id": 1776866788013,
+      "name": "Test User",
+      "email": "test_new_123@gmail.com",
+      "password": "$2b$10$n/y4NWxfjyHXn74hpAFhEOWqSzIfY0X1BXAEnIn5dDp4wzRD1BJii"
+    },
+    {
+      "id": 1776869049453,
+      "name": "Verification Agent",
+      "email": "verify@test.com",
+      "password": "$2b$10$IraQAac5beqQMWYAhUvaEOEi24wB3JEC1PW5eTj6IrVzfP0N9.qyi"
+    },
+    {
+      "id": 1776919618502,
+      "name": "Praveen",
+      "email": "praveen@gmail.com",
+      "password": "$2b$10$XKhWMHjGcGHxIixqI19YNOlYM4A/eERJjKoBe045c/2tOKnP4IyKG"
+    }
+  ],
+  "history": [
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776854703672,
+      "timestamp": "2026-04-22T11:23:05.850Z"
+    },
+    {
+      "requestedAmount": 1000000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776854703672,
+      "timestamp": "2026-04-22T11:25:12.920Z"
+    },
+    {
+      "requestedAmount": 5000000,
+      "status": "Reduced Offer",
+      "riskLevel": "Medium",
+      "userId": 1776866788013,
+      "timestamp": "2026-04-22T14:35:22.788Z"
+    },
+    {
+      "requestedAmount": 1000000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776866788013,
+      "timestamp": "2026-04-22T14:36:34.674Z"
+    },
+    {
+      "requestedAmount": 1000000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776866788013,
+      "timestamp": "2026-04-22T14:39:19.935Z"
+    },
+    {
+      "requestedAmount": 1000000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776866788013,
+      "timestamp": "2026-04-22T14:40:11.490Z"
+    },
+    {
+      "requestedAmount": 1000000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776866788013,
+      "timestamp": "2026-04-22T14:42:08.709Z"
+    },
+    {
+      "requestedAmount": 1000000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T14:46:25.172Z"
+    },
+    {
+      "requestedAmount": 1000000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T14:49:33.590Z"
+    },
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T16:10:01.725Z"
+    },
+    {
+      "requestedAmount": 100000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T16:12:03.493Z"
+    },
+    {
+      "requestedAmount": 100000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T16:15:13.611Z"
+    },
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T16:17:54.948Z"
+    },
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T16:21:46.864Z"
+    },
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T16:23:33.741Z"
+    },
+    {
+      "requestedAmount": 300000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T16:25:43.608Z"
+    },
+    {
+      "requestedAmount": 300000,
+      "status": "Reduced Offer",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T16:27:17.713Z"
+    },
+    {
+      "requestedAmount": 1000000,
+      "status": "Reduced Offer",
+      "riskLevel": "Medium",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T16:31:15.709Z"
+    },
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T16:41:54.014Z"
+    },
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T17:05:40.532Z"
+    },
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T17:07:48.271Z"
+    },
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T17:10:17.907Z"
+    },
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T17:12:38.573Z"
+    },
+    {
+      "requestedAmount": 500000,
+      "status": "Approved",
+      "riskLevel": "Low",
+      "userId": 1776869049453,
+      "timestamp": "2026-04-22T17:21:57.495Z"
+    },
+    {
+      "requestedAmount": 3000000,
+      "status": "Reduced Offer",
+      "riskLevel": "Medium",
+      "userId": 1776854703672,
+      "timestamp": "2026-04-22T17:42:13.573Z"
+    }
+  ]
+}
