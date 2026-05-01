@@ -50,8 +50,7 @@ The server will run on `http://localhost:5001` with MongoDB successfully connect
 **Environment Variables** (already configured):
 ```env
 PORT=5001
-MONGODB_URI=mongodb+srv://kuser:kuser123@cluster0.nmewob8.mongodb.net/loan_calculator?retryWrites=true&w=majority&appName=Cluster0
-JWT_SECRET=loan_engine_secret_key_2024
+
 ```
 
 ### 2. Frontend Setup
