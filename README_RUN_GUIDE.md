@@ -24,8 +24,7 @@ The backend handles authentication and the loan underwriting engine.
     Ensure your `.env` file exists in the `backend` folder with the following content (I have already configured this for you):
     ```env
     PORT=5001
-    MONGODB_URI=mongodb+srv://kuser:kuser123@cluster0.nmewob8.mongodb.net/loan_calculator?retryWrites=true&w=majority&appName=Cluster0
-    JWT_SECRET=loan_engine_secret_key_2024
+   
     ```
 4.  **Start the server**:
     ```bash
