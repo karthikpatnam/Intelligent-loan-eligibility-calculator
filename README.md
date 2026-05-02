@@ -50,6 +50,9 @@ The server will run on `http://localhost:5001` with MongoDB successfully connect
 **Environment Variables** (already configured):
 ```env
 PORT=5001
+MONGODB_URI=your_mongodb_atlas_connection_string
+JWT_SECRET=your_secret_key
+
 
 ```
 
